@@ -1,6 +1,6 @@
 # Unitary and Non-Unitary Isometric Time Evolution. With the QuTiP examples.
 
-## The Page curve with QuTip.
+## The Page Curve with QuTip.
 
 **Unitarity** is a fundamental principle that ensures the conservation of probability and the reversibility of quantum states. However, conventional notions of time and causality are challenged when considering cosmological contexts like the Big Bang or the expansion of the Universe.
 
@@ -25,10 +25,10 @@ The **Hierarchical Equations of Motion (HEOM) method**, on the other hand, could
 
 However, we attempt a simple toy-model simulation for exercising a **black hole evaporation** by a **two-level system** with the help of **QuTip** (Quantum Toolbox in Python). Our goal is to obtain a Page curve.
 
-1. One Notebook is to simulate the Page Curve entanglement dynamics in open two-level quantum systems using the Lindbland Master Equation: https://github.com/AnaKhromova/Page-Curve-QuTip/blob/main/Page_Curve_open_QS_Lindbland.ipynb
+1. One Notebook is to simulate the Page Curve entanglement dynamics in open two-level quantum systems using the Lindblad Master Equation: https://github.com/AnaKhromova/Page-Curve-QuTip/blob/main/Page_Curve_open_QS_Lindbland.ipynb
 2. Another is to do the same with the Hierarchical Equations of Motion (HEOM) method:
 
-Both methods work, and with both methods we obtained the Page curve.
+Both methods work, and with both methods we obtained the Page Curve.
 
 
 
