@@ -1,5 +1,7 @@
 # Unitary and Non-Unitary Isometric Time Evolution. With the QuTiP examples.
 
+Author: Anastasiya Khromova (anastasiya.khromova17@gmail.com), 2025
+
 ## The Page Curve with QuTip.
 
 **Unitarity** is a fundamental principle that ensures the conservation of probability and the reversibility of quantum states. However, conventional notions of time and causality are challenged when considering cosmological contexts like the Big Bang or the expansion of the Universe.
